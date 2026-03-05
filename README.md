@@ -1,5 +1,7 @@
 SPECIES MANAGER
+
 A Caves of Qud mod by Celine Kalante Love & Frirends (the Woodling System) AKA Kjorteo
+
 Version 1.1.0
 
 =====
@@ -17,7 +19,8 @@ You even have two ways to change your technical species: You can enter whatever 
 
 (Your display species does not have a similar multiple-choice preexisting list for what hopefully should be obvious reasons, though you of course are free to enter whatever you'd like in the free-form text entry box.  This is how people will refer to your species in dialogue, now completely unattached to any mechanical concerns or considerations, so have fun with it!)
 
-If you're looking for an example of an OC species (currently just CYF expansion tiles, but perhaps playable genotypes and more could be added someday..?) that greatly benefit from having Species Manager to give them their proper intended display species, might we recommend [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3668028848]The Ibekki[/url]?
+If you're looking for an example of an OC species (currently just CYF expansion tiles, but perhaps playable genotypes and more could be added someday..?) that greatly benefit from having Species Manager to give them their proper intended display species, might we recommend The Ibekki?
+https://steamcommunity.com/sharedfiles/filedetails/?id=3668028848
 
 =====
 MOSTLY-UNRELATED BONUS
@@ -39,4 +42,5 @@ Tam's custom icon in the preview thumbnail is from Unique Makeovers by Balthicho
 VERSION HISTORY
 =====
 1.1.0: Fixed the bug where display species weren't saving properly; you shouldn't have to set your display species again every time you load your saved game anymore. Fixed bugs and overall behavior with how Species Manager interacts with the player swapping bodies (wishes, Domination, etc.) and with being disguised. The "Explanation" option is now "Read Explanation" (same thing, clearer wording) and its writing has been very slightly revised. Cleaned up the source code in the Kjorteo_SpeciesManager.cs file down to the comments and commented out parts; it should now be a lot easier to read along and see what it's doing and how for aspiring modders who want to learn by reverse-engineering it. Finally, added an optional "support the authors" option in the main menu with a link to our Ko-Fi. uwu
+
 1.0.0: Initial release
